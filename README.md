@@ -1,1 +1,2 @@
 # Sentify
+The primary goal of Sentify is to combine sentiment analysis with a recommendation system to build an intelligent and user-centric platform. By analyzing the sentiment of product reviews (or movie reviews), the system identifies user preferences and provides personalized recommendations. This approach bridges the gap between understanding user emotions and offering targeted suggestions, enhancing the overall experience for consumers
